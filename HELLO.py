@@ -1,3 +1,1 @@
-def firstgithubrepo():
-    print("Hello, World!")
-firstgithubrepo()
+print("Hello, World!")
